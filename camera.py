@@ -1,4 +1,3 @@
-import numpy as np
 import cv2
 
 cascPath1 = "haarcascade_frontalface_default.xml"
